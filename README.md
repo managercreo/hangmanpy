@@ -1,7 +1,7 @@
 # hangmanpy
 Juego del ahorcado en python
 # Jugar
-git clone https://managercreo/hangmanpy.git
+git clone https://github.com/managercreo/hangmanpy.git
 
 cd hangmanpy
 
